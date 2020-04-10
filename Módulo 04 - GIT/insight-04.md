@@ -98,5 +98,3 @@ ___
 Interessante:
 
 Ao executar o **git merge** o GIT automaticamente faz o update dos arquivos e cria um commit sobre isso, deixando registrado na linha do tempo.
-
-        Simulando um conflito com merge.
