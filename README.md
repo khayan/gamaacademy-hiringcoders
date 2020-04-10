@@ -4,7 +4,7 @@ Estou achando excelente todo o conteúdo. Começando da base, lógica de program
 
 Estou muito feliz em fazer parte do **Hiring Coders**! Estou certo de que esta jornada trará bons frutos e exigirá muito empenho, garra e dedicação para ser conquistada.
 
-Muito obrigado **<a href="#">Gama Academy**</a>!
+Muito obrigado pela oportunidade, **<a href="https://gama.academy/">Gama Academy**</a>!
 
 #AoInfinitoEAlém 🚀
 
