@@ -9,3 +9,5 @@ Muito obrigado pela oportunidade, **<a href="https://gama.academy/">Gama Academy
 #AoInfinitoEAlém 🚀
 
 <a href="https://khayan.githup.io">**Khayan Malantrucco</a> - 10/04/2020**.
+
+### <a href="https://www.linkedin.com/feed/update/urn:li:activity:6654065564882882560/">#Aprovado para o Hiring Coders! 👍</a>
