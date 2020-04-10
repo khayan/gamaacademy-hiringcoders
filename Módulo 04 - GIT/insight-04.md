@@ -21,6 +21,7 @@ ___
 - **git init** -> Inicializa o versionamento do repositório GIT
 - **git add** nome_do_arquivo -> Sinaliza ao GIT que ele deve monitorar os arquivos
 - **git commit -m** "mensagem" -> Cria um ponto na linha do tempo do repositório com uma mensagem sobre a alteração realizada
+- **git commit -am** "mensagem" -> Atalho para **git add** + **git commit -m**
 
 ___
 ## Log, Status, Show?
@@ -68,6 +69,12 @@ Para alternar de uma Branch para a outra, usamos o seguinte comando:
 Por exemplo:
 
     git checkout feature/lista-clientes
+
+Podemos ainda, caso a Branch ainda não esteja criada, utilizar:
+
+    git checkout -b nome_da_categoria/nome_da_branch
+
+Dessa forma, o GIT criará a Branch e já irá migrar para ela.
 ___
 ### git reset
 Para remover os arquivos da Stage ("tirar" o git add) usamos o comando:
