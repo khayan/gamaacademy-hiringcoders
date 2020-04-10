@@ -75,6 +75,12 @@ Podemos ainda, caso a Branch ainda não esteja criada, utilizar:
     git checkout -b nome_da_categoria/nome_da_branch
 
 Dessa forma, o GIT criará a Branch e já irá migrar para ela.
+
+Também é possível "voltar no tempo" usando:
+
+    git checkout id_do_commit
+
+**Atenção**: Todas as alterações realizadas posteriormente a esse commit serão ignoradas.
 ___
 ### git reset
 Para remover os arquivos da Stage ("tirar" o git add) usamos o comando:
