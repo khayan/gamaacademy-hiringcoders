@@ -122,5 +122,50 @@ Esses arquivos e pastas deverão ser selecionados e incluídos nessa lista pelo 
 ___
 ## Pull Request
 
+**Pull Request** é uma solicitação de um **pull** em um repositório ao qual você gostaria de contribuir. Serve principalmente para contribuição de código de projetos open source.
+
+### Como fazer um Pull Request?
+
+1. Vá até o repositório desejado e faça um **fork** para o seu repositório
+
+    <img src="fork.png">
+
+2. Faça um **clone** do repositório remoto para o seu repositório local
+
+    <img src="clone.png">
+
+        git clone https://github.com/khayan/gama-no-pullrequest.git
+
+3. Crie uma **nova branch** para trabalhar suas alterações
+
+        git checkout -b feature/nova-feature
+
+4. Faça as alterações necessárias
+5. **Commit** as alterações
+
+        git commit -am "Sugestões para nova feature"
+
+6. Faça um **push**
+
+        git push --set-upstream origin feature/nova-feature
+
+7. Vá até o **repositório forkado** e faça o **Pull Request**! 
+
+    <img src="pull-request.png">
+    <img src="pull-request-compare.png">
+
 ___
 ## Gitflow
+
+É uma das metodologias mais utilizadas no versionamento de código entre times.
+
+- **Master** -> branch principal do projeto. Código oficial e poderia estar em produção
+- **Hotfix** -> branch para ajuste de pequenos bugs que eventualmente foram percebidos depois do código ter sido colocado na Master
+- **Release** -> branch de funcionalidades desenvolvidas e testadas que formam um pacote para ser submetido a Master posteriormente
+- **Develop** -> branch de homologação, testes e controle. A partir dela são criadas branches de features e correção de bugs
+- **Feature** -> branch de desenvolvimento de funcionalidades para o software
+- **Bugs** -> branch para correção de erros de features que foram para a develop mas eventualmente voltaram por conter problemas
+
+É interessante ter essa divisão de camadas de branches para evitar alterações que quebrem o código, gerem retrabalho ou problemas ainda mais complicados.
+
+<img src="gitflow.png">
