@@ -46,7 +46,7 @@ A finalidade disso é proteger a Master e dar mais autonomia e liberdade para o 
 - hotfix
 
 ___
-### git branch
+## git branch
 Para criar uma nova Branch utilizamos o seguinte comando:
 
     git branch nome_da_categoria/nome_da_branch
@@ -61,7 +61,7 @@ Para remover uma Branch usamos:
 
     git branch -D nome_da_categoria/nome_da_branch
 ___
-### git checkout
+## git checkout
 Para alternar de uma Branch para a outra, usamos o seguinte comando:
 
     git checkout nome_da_categoria/nome_da_branch
@@ -82,12 +82,12 @@ Também é possível "voltar no tempo" usando:
 
 **Atenção**: Todas as alterações realizadas posteriormente a esse commit serão ignoradas.
 ___
-### git reset
+## git reset
 Para remover os arquivos da Stage ("tirar" o git add) usamos o comando:
 
     git reset
 ___
-### git merge
+## git merge
 Para juntar Branches usamos:
 
     git merge nome_da_categoria/nome_da_branch
@@ -100,7 +100,27 @@ Criamos a Branch **feature/lista-clientes**, agora, queremos trazer todas as alt
 2. **git merge feature/teste-nova-branch**
 
 Nesse momento todas as alterações realizadas na Branch **feature/teste-nova-branch** como criação de novos arquivos, ou alterações nos arquivos existentes, estarão na Master e podemos comprovar isso se utilizarmos o comando **git log** pois teremos o log contendo os commits realizados na Branch **feature/teste-nova-branch** juntamente com os commits já realizados anteriormente na Master.
+
 ___
 Interessante:
 
 Ao executar o **git merge** o GIT automaticamente faz o update dos arquivos e cria um commit sobre isso, deixando registrado na linha do tempo.
+
+___
+## Clone e Pull?
+
+- **git clone** -> Clona um projeto de um repositório remoto
+- **git pull** -> Atualiza o repositório local a partir do repositório remoto
+
+___
+## .gitignore
+
+O **.gitignore** é um arquivo que lista todos os arquivos e diretórios que devem ser **ignorados** pelo GIT em relação ao monitoriamento. 
+
+Esses arquivos e pastas deverão ser selecionados e incluídos nessa lista pelo desenvolvedor, para atender suas necessidades mediante cada projeto.
+
+___
+## Pull Request
+
+___
+## Gitflow
