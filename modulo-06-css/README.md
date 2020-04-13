@@ -1,7 +1,7 @@
 # Módulo 6 - CSS
 
 ## Referências para estudos
-- **W3Schools** -> https://www.w3schools.com/
+- **W3Schools** -> https://www.w3schools.com/css/default.asp
 
 ___
 ## O que é CSS?
@@ -55,13 +55,13 @@ Todas as propriedades CSS estão organizadas em ordem alfabética. Ao clicar em 
 
 ___
 ### Box Model
-Todos os **elementos HTML** de uma página são como **caixas retangulares** e possuem **margem**, **borda** e **preenchimento** ao redor do seu **conteúdo**. A este conceito damos o nome de Box Model.
+Todos os **elementos HTML** de uma página são como **caixas retangulares** e possuem **margem**, **borda** e **preenchimento (ou espaçamento)** ao redor do seu **conteúdo**. A este conceito damos o nome de Box Model.
 
 Com o CSS podemos manipular os tamanhos dessas áreas utilizando as propriedades `margin`, `border` e `padding`.
 
 Existe também a propriedade `box-sizing` que, atrelada ao valor `border-box` faz com que o tamanho do elemento (`width` e `height`) seja considerado incluindo os valores definidos nas propriedades `margin`, `border` e `padding`.
 
-![Esquema de Border Box](https://tableless.github.io/iniciantes/assets/img/box-model.png)
+<img src="https://tableless.github.io/iniciantes/assets/img/box-model.png" align="center" alt="Esquema de Border Box"/>
 
 Para mais informações sobre esse tema, recomendo fortemente o o **[Guia TableLess Para Iniciantes na Web](https://tableless.github.io/iniciantes/)**. Eles tem um artigo falando tudo sobre **[Box Model](https://tableless.github.io/iniciantes/manual/css/box-model.html)**
 
