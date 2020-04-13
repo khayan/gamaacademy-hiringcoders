@@ -6,11 +6,11 @@ Esse arquivo será **vivo** e estará em constante mudança ao longo do programa
 Dúvidas, críticas ou seguestões, entre em contato via **`issues`** 💬
 
 # Índice
-- ✅ [Módulo 1 - Introdução](modulo-01-introducao\README.md)
-- ✅ [Módulo 2 - Lógica de Programação](modulo-02-logica-de-programacao\README.md)
-- ✅ [Módulo 3 - Metodologias Ágeis](modulo-03-metodologias-ageis\README.md)
-- ✅ [Módulo 4 - GIT](modulo-04-git\README.md)
-- ✅ [Módulo 5 - HTML](modulo-05-html\README.md)
+- ✅ [Módulo 1 - Introdução](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-01-introducao)
+- ✅ [Módulo 2 - Lógica de Programação](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-02-logica-de-programacao)
+- ✅ [Módulo 3 - Metodologias Ágeis](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-03-metodologias-ageis)
+- ✅ [Módulo 4 - GIT](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-04-git)
+- ✅ [Módulo 5 - HTML](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-05-html)
 - ❌ [Módulo 6 - CSS](#)
 
 ___
