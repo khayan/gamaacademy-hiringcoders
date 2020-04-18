@@ -61,7 +61,7 @@ Com o CSS podemos manipular os tamanhos dessas áreas utilizando as propriedades
 
 Existe também a propriedade `box-sizing` que, atrelada ao valor `border-box` faz com que o tamanho do elemento (`width` e `height`) seja considerado incluindo os valores definidos nas propriedades `margin`, `border` e `padding`.
 
-<img src="https://tableless.github.io/iniciantes/assets/img/box-model.png" align="center" alt="Esquema de Border Box"/>
+<img src="img/box-model.png" align="center" alt="Esquema de Border Box"/>
 
 Para mais informações sobre esse tema, recomendo fortemente o o **[Guia TableLess Para Iniciantes na Web](https://tableless.github.io/iniciantes/)**. Eles tem um artigo falando tudo sobre **[Box Model](https://tableless.github.io/iniciantes/manual/css/box-model.html)**
 

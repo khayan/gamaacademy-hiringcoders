@@ -1,0 +1,296 @@
+/* CSS RESET */
+
+* {
+    /* border: 1px red solid; */
+}
+
+body {
+    font-size: 100%;
+    font: inherit;
+    font-family: 'Open Sans', sans-serif;
+
+    vertical-align: baseline;
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    width: 100%;
+}
+
+body li {
+    list-style: none;
+}
+
+body a {
+    text-decoration: none;
+}
+
+/* TOPO */
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+#topo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+    padding: 1.5vh 2vw;
+
+    background-color: #ff6b9d;
+}
+
+#titulo-topo {
+    align-self: baseline;
+}
+
+#titulo-topo h1 {
+    font-weight: bold;
+    color: #FFF;;
+}
+
+#menu-topo {
+    width: 50%;
+    align-self: baseline;
+}
+
+#menu-topo ul {
+    display: flex;
+    align-self: baseline;
+    justify-content: space-between;
+
+    padding-left: 0;
+
+    width: 100%;
+}
+
+#menu-topo ul li {
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+    font-weight: bold;
+    font-size: 120%;
+
+    transition-duration: .4s;
+}
+
+#menu-topo ul li:hover {
+    background-color: #0093d0;
+
+    border-radius: 10px;
+
+    transition-duration: .4s;
+}
+
+#menu-topo ul li a {
+    color: #FFF;
+}
+
+#img-topo {
+    display: flex;
+    width: 100%;
+    background-color: #ffbf00;
+}
+
+#img-topo img {
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+
+/* MAIN CONTENT */
+
+main {
+    padding: 2%;
+    background-color: #ffbf00;
+}
+
+main h2, footer h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+
+    margin: 3vh auto;
+    padding: 10px 0;
+    
+    width: 50%;
+
+    border-radius: 10px;
+
+    background-color: #0093d0;
+    color: #ffbf00;
+    text-shadow: 0 5px 3px #ff6b9d;
+}
+
+#produtos-destaque {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.produto-destaque {
+    margin: 20px;
+    padding: 10px;
+
+    background-color: #FFF;
+    color: #0093d0;
+
+    border-radius: 20px;
+    box-shadow: 0 15px 30px #ff6b9d;
+
+    max-width: 30%;
+    max-height: auto;
+}
+
+.produto-destaque h3 {
+    font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    margin: 5% auto;
+
+    color: #ff6b9d;
+    text-shadow: 0 3px 3px #71ccf3;
+
+}
+
+.produto-destaque img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.produto-destaque h4 {
+    margin: 4vh auto;
+
+    font-size: 32px;
+    text-align: center;
+
+    color: #ff6b9d;
+    text-shadow: 0 4px 2px #71ccf3;
+}
+
+.produto-destaque p {
+    text-align: justify;
+    font-weight: 600;
+    
+    margin: 0 10% 3%;
+
+    color: #ffbf00;
+    
+}
+
+
+
+/* RODAPÉ */
+footer {
+    background-color: #0093d0;
+
+    padding: 2%;
+
+    bottom: 0;
+}
+
+footer h2 {
+    background-color: #ffbf00;
+    color: #ff6b9d;
+    text-shadow: 0 5px 3px #0093d0;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 2%;
+}
+
+#redes-sociais {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#redes-sociais a {
+    border: 0;
+}
+
+#redes-sociais img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#redes-sociais img:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 10px #ff6b9d;
+}
+
+#email h3, #redes-sociais h3 {
+    text-align: start;
+    margin: 0 0 20px;
+    
+    font-size: 26px;
+
+    background-color: #0093d0;
+    color: #ffbf00;
+    text-shadow: 0 4px 3px #ff6b9d;
+}
+
+#redes-sociais h3 {
+    margin: 0;
+    padding: 0 0 10px;
+}
+
+#email input {
+    width: 400px;
+    height: 60px;
+
+    padding: 0 10px;
+
+    border-radius: 10px;
+    border: 0;
+
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+
+    color: #ff6b9d;
+}
+
+#email input::placeholder {
+    color: #ff6b9d;
+}
+
+#email button {
+    padding: 20px 50px;
+
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+
+    margin-left: 10px;
+
+    color: #FFF;
+    background-color: #ff6b9d;
+
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+
+    transition: .2s;
+}
+
+#email button:hover {
+    cursor: pointer;
+
+    background-color: #ffbf00;
+    color: #0093d0;
+
+    transition: .2s;
+}
