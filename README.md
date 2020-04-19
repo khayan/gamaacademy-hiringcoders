@@ -29,3 +29,10 @@ Muito obrigado pela oportunidade, **<a href="https://gama.academy/">Gama Academy
 <a href="https://khayan.githup.io">**Khayan Malantrucco</a> - 10/04/2020**.
 
 ### <a href="https://www.linkedin.com/feed/update/urn:li:activity:6654065564882882560/">[POST] #Aprovado para o Hiring Coders!</a> 👍
+
+___
+# Desafio | Módulo 6
+## Página de Notícias do COVID-19
+
+- **[Repositório do desafio no Github](https://github.com/khayan/gamaacademy-covid19)**
+- **[Acesse o site!](https://quarentenanews.netlify.app/)**
