@@ -1,4 +1,4 @@
-# Bootstrap
+# Módulo 7 - Bootstrap
 É um **Framework Web**, responsivo, de código aberto, dos mais utilizados e bastante consolidado no mercado.
 
 Através dele podemos criar interfaces e front-end para sites e apps, utilizando HTML, CSS e Javascript.
