@@ -14,6 +14,8 @@ Dúvidas, críticas ou seguestões, entre em contato via **`issues`** 💬
 - ✅ [Módulo 6 - CSS](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-06-css)
 - ✅ [Módulo 7 - Bootstrap](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-07-bootstrap)
 - ✅ [Módulo 8 - Estrutura de Dados](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-08-estrutura-de-dados)
+- ✅ [Assignment - Semana 8 - Hackeando Relacionamentos](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/assignments-hackeando-relacionamentos)
+
 
 ___
 # Desafio | Módulo 4
