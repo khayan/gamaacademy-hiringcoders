@@ -118,8 +118,11 @@ A declaração `while` cria um laço que executa uma rotina especifica enquanto 
 
 Clicando **[aqui](while.js)** você poderá ver um exemplo simples dessa estrutura sendo utilizada.
 
-
 ## Funções
+
+Uma função serve para armazenar um bloco de código para que este seja reutilizável quantas vezes forem necessárias.
+
+Clicando **[aqui](funcao.js)** você poderá ver exemplos simples dessa estrutura sendo utilizada.
 
 ## Classes
 

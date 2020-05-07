@@ -1,4 +1,4 @@
-// ------- IF e ELSE - SE e SENÃO -------
+// ------- IF / ELSE | SE / SENÃO -------
 
 var nome = 'Khayan'; // Primeira letra do nome maiúscula
 
@@ -14,7 +14,7 @@ if (nome === 'Khayan') { // Condição: Primeira letra do nome maiúscula
 }
 
 
-// ------- SWITCH e CASE - SELECIONE e CASO-------
+// ------- SWITCH / CASE | SELECIONE / CASO -------
 
 var cor = 'verde'; // cor é verde
 
