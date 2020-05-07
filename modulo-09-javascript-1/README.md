@@ -136,8 +136,5 @@ Recomendo fortemente a leitura do artigo para melhor compreensão dos conceitos 
 Clicando **[aqui](classe.js)** você poderá acessar a classe **Matematica** que contém **operações básicas, tabuada, potenciação, raiz quadrada e Bhaskara.**
 
 ## Validador de CPF
-### Parte 1
-### Parte 2
-### Parte 3
-### Parte 4
-### Parte 5
+
+Implementação prática de conceitos aprendidos. Clique **[aqui](https://validador-de-cpf.netlify.app/)** para ver o **Validador de CPF**. Clique **[aqui](/gama-no-javascript-basico)** para visualizar o repositório e o código.
