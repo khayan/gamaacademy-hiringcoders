@@ -93,8 +93,31 @@ Utilizamos as declarações condicionais para tomar decisões baseadas em condi�
 Clicando **[aqui](condicionais.js)** você poderá ver um exemplo simples dessas estruturas sendo utilizadas.
 
 ## Estruturas de Repetição
+
+É uma estrutura que executa um determinado bloco de código durante N vezes, de acordo com a instrução do script.
+
 ### For
+
+A instrução `for` cria um loop que consiste em três expressões opcionais, dentro de parênteses e separadas por ponto e vírgula, seguidas por uma declaração ou uma sequência de declarações executadas em sequência. (Referência: [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for))
+
+    for ([inicialização]; [condição]; [incremento]) {
+        // ações
+    }
+
+Clicando **[aqui](for.js)** você poderá ver um exemplo simples dessa estrutura sendo utilizada.
+
 ### While
+
+Enquanto algo for verdadeiro, repita a ação. Utilizamos o `while` quando não sabemos exatamente o limite de parada daquela ação. A condição de verificação do `while` também pode ser chamada de `flag`. É a `flag` que auxilia na parada do laço.
+
+A declaração `while` cria um laço que executa uma rotina especifica enquanto a condição de teste for avaliada como verdadeira. A condição é avaliada antes da execução da rotina. (Referência [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while))
+
+    while (condição) {
+        // ações
+    }
+
+Clicando **[aqui](while.js)** você poderá ver um exemplo simples dessa estrutura sendo utilizada.
+
 
 ## Funções
 

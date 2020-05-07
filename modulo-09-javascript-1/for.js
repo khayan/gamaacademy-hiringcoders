@@ -1,13 +1,14 @@
 // FOR + IF/ELSE + .push()
+// Contando números de 0 a 100, verificando se são pares ou ímpares e separando cada um em seu respectivo vetor
 var pares = [];
 var impares = [];
 
 for (let numero = 0; numero <= 100; numero++) {
     if (numero % 2 == 0) {
-        // console.log(`${numero} é pares!`);
+        // console.log(`${numero} é par!`);
         pares.push(numero);
     } else {
-        // console.log(`${numero} é impares!`);
+        // console.log(`${numero} é ímpar!`);
         impares.push(numero);
     }
 }
