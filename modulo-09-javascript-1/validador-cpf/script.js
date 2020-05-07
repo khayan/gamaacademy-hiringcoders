@@ -11,7 +11,9 @@ function validacao() {
 
     var resultado_validarCPF = validarCPF(cpf);
 
-    resultado_validarCPF ? document.getElementById('success').style.display = 'block': document.getElementById('error').style.display = 'block';
+    resultado_validarCPF ?
+    document.getElementById('success').style.display = 'block' :
+    document.getElementById('error').style.display = 'block';
 }
 
 function validarCPF(cpf) {
