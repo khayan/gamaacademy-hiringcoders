@@ -31,6 +31,7 @@ Existem 3 formas de declararmos variáveis no Javascript `var`, `let` e `const`.
 - Subtração `-`
 - Divisão `/`
 - Multiplicação `*`
+- Exponenciação `**`
 - Módulo `%`
 
 Clique **[aqui](operadores.js)** para ver o exemplo aplicado.
@@ -125,6 +126,14 @@ Uma função serve para armazenar um bloco de código para que este seja reutili
 Clicando **[aqui](funcao.js)** você poderá ver exemplos simples dessa estrutura sendo utilizada.
 
 ## Classes
+
+As classes servem para definir características de um Objeto e suas possíveis ações. Segundo **[este](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)** artigo da [MDN](https://developer.mozilla.org/pt-BR/): 
+
+> Uma classe é uma definição modelo das propriedades e métodos de um objeto.
+
+Recomendo fortemente a leitura do artigo para melhor compreensão dos conceitos e demais elementos que contemplam a **POO** _(Programação Orientada a Objetos)_.
+
+Clicando **[aqui](classe.js)** você poderá acessar a classe **Matematica** que contém **operações básicas, tabuada, potenciação, raiz quadrada e Bhaskara.**
 
 ## Validador de CPF
 ### Parte 1
