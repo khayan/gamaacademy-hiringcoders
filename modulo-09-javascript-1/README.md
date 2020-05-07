@@ -137,4 +137,4 @@ Clicando **[aqui](classe.js)** você poderá acessar a classe **Matematica** que
 
 ## Validador de CPF
 
-Implementação prática de conceitos aprendidos. Clique **[aqui](https://validador-de-cpf.netlify.app/)** para ver o **Validador de CPF**. Clique **[aqui](gama-no-javascript-basico)** para visualizar o repositório e o código.
+Implementação prática de conceitos aprendidos. Clique **[aqui](https://validador-de-cpf.netlify.app/)** para ver o **Validador de CPF**. Clique **[aqui](validador-cpf)** para visualizar o repositório e o código.
