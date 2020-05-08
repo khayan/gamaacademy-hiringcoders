@@ -43,3 +43,9 @@ ___
 
 - **[Repositório do desafio no Github](https://github.com/khayan/gamaacademy-covid19)**
 - **[Acesse o site!](https://quarentenanews.netlify.app/)**
+___
+# Atividade Prática | Módulo 9
+## Validador de CPF com Javascript
+
+- **[Notas sobre o Módulo 9](modulo-09-javascript-1)**
+- **[Acesse o validador!](https://validador-de-cpf.netlify.app/)**
