@@ -38,4 +38,21 @@ O Spread Operator `...` permite que um array seja expandido ou "clonado". Clique
 
 ## Desestruct e Match
 
+### Desestruct Assignment
+ 
+É uma expressão JavaScript que possibilita extrair dados de arrays ou objetos em variáveis distintas. (Fonte: [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Atribuicao_via_desestruturacao))
+
+Clique **[aqui](desestruct.js)** para ver a utilização prática desse recurso.
+
+
+### Match
+
+
+
 ## SPA, PWA e WebComponents
+
+### SPA - Single Page Application
+
+### PWA - Progressive Web App
+
+### WebComponents
