@@ -47,6 +47,14 @@ Clique **[aqui](desestruct.js)** para ver a utilização prática desse recurso.
 
 ### Match
 
+É um método que busca por valores específicos em uma massa de dados a partir de uma expressão regular.
+
+Clique **[aqui](match.js)** para ver a utilização prática desse recurso.
+
+Veja mais informações sobre o método _match()_ clicando **[aqui](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/match)**.
+
+Aprenda mais sobre RegEx clicando **[aqui](https://www.youtube.com/watch?v=TVIZoqBjwNQ&list=PL61kTUcYddBMZySkgjHtiwasOAknTDbgs)**.
+
 
 
 ## SPA, PWA e WebComponents
