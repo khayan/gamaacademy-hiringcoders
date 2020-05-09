@@ -34,6 +34,8 @@ Clique **[aqui](arrow-function.js)** para ver alguns exemplos aplicados.
 
 ## Spread
 
+O Spread Operator `...` permite que um array seja expandido ou "clonado". Clique **[aqui](spread.js)** para ver os exemplos passados em aula.
+
 ## Desestruct e Match
 
 ## SPA, PWA e WebComponents
