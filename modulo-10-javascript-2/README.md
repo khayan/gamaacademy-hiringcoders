@@ -61,6 +61,38 @@ Aprenda mais sobre RegEx clicando **[aqui](https://www.youtube.com/watch?v=TVIZo
 
 ### SPA - Single Page Application
 
+- Principal formato de desenvolvimento de produtos para a web;
+- Reuso de componentes.
+
+#### Principais Frameworks SPA
+
+- ReactJS (Facebook)
+- AngularJS (Google)
+- VueJS
+
 ### PWA - Progressive Web App
 
+- **Progressivo**: Deve funcionar em qualquer navegador para qualquer usuário;
+- **Responsivo**: Deve adequar suas dimensões para qualquer dispositivo, desktops, celulares, tablets, tvs e etc;
+- **Independente de Conectividade**: Deve trabalhar offline ou com conexão limitada;
+- **Semelhante a Apps**: Possuir interfaces e recursos semelhantes, independente do dispositivo;
+- **Sincronizado**: Deve se manter atualizado e sincronizado com a nuvem quando houver conexão disponível;
+- **Seguro**: Conexões, quando disponíveis, só podem ser realizadas através do protocolo HTTPS;
+- **Reenvolvente**: Deve gerar engajamento através de Notificações Push;
+- **Instalável**: Deve possibilitar "guardar" o app sem necessariamente instalá-lo (por exemplo, um atalho na tela do celular que abre o app sem o usuário ter realizado nenhuma instalação);
+- **Linkável**: Deve ser facilmente compartilhável via link, sem depender de lojas de apps.
+
 ### WebComponents
+
+- **HTML Template**: Componentização do HTML. Encapsular, por exemplo, um formulário para que eu possa utilizá-lo em diversas páginas;
+- **Customizar Elementos**: Capacidade de criação de componentes customizados;
+- **Shadow DOM**: Estilos e diretivas globais ficam encapsulados. Nenhum componente interfere nos demais (escopo local);
+- **ES Modules**: Possibilidade de carregar módulos nativamente.
+
+Para saber mais sobre Components clique **[aqui](https://www.webcomponents.org/)**.
+
+#### Component Compilers
+
+- **[CapivaraJS](https://capivarajs.github.io/#/)**
+- **[Stencil](https://stenciljs.com/)**
+- **[LitElement](https://lit-element.polymer-project.org/)**
