@@ -19,6 +19,7 @@ Dúvidas, críticas ou seguestões, entre em contato via **issues** 💬
 - ✅ **[Assignment - Semana 8 - Hackeando Relacionamentos](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/assignments-hackeando-relacionamentos)**
 - ✅ **[Módulo 9 - JavaScript 1](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-09-javascript-1)**
 - ✅ **[Módulo 10 - JavaScript 2](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-10-javascript-2)**
+- ❌ **[Módulo 11 - ReactJS](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-11-reactjs)**
 
 ___
 
