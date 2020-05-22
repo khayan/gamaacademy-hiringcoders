@@ -20,8 +20,7 @@ Dúvidas, críticas ou seguestões, entre em contato via **issues** 💬
 - ✅ **[Módulo 9 - JavaScript 1](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-09-javascript-1)**
 - ✅ **[Módulo 10 - JavaScript 2](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-10-javascript-2)**
 - ❌ **[Módulo 11 - ReactJS](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-11-reactjs)**
-
-___
+- ✅ **[Assignment - Semana 11 - LinkedIn Optimization](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/assignments-linkedin-optimization)**
 
 # Desafio | Módulo 4
 
@@ -37,22 +36,18 @@ Muito obrigado pela oportunidade, **[Gama Academy](https://gama.academy/)**!
 
 **[Khayan Malantrucco](https://khayan.githup.io) - 10/04/2020**.
 
-### **Post:** [Aprovado para o Hiring Coders!](https://www.linkedin.com/feed/update/urn:li:activity:6654065564882882560/) 👍
-
-___
+**[Aprovado para o Hiring Coders!](https://www.linkedin.com/feed/update/urn:li:activity:6654065564882882560/)**
 
 # Desafio | Módulo 6
 
 ## Página de Notícias do COVID-19
 
-- **[Repositório do desafio no Github](https://github.com/khayan/gamaacademy-covid19)**
-- **[Acesse o site!](https://quarentenanews.netlify.app/)**
-
-___
+- **[Repositório do desafio](https://github.com/khayan/gamaacademy-covid19)**
+- **[QUARENTENA NEWS](https://quarentenanews.netlify.app/)**
 
 # Atividade Prática | Módulo 9
 
 ## Validador de CPF com Javascript
 
 - **[Notas sobre o Módulo 9](modulo-09-javascript-1)**
-- **[Acesse o validador!](https://validador-de-cpf.netlify.app/)**
+- **[Validador de CPF](https://validador-de-cpf.netlify.app/)**
