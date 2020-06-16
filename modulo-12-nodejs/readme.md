@@ -131,10 +131,18 @@ Clicando **[aqui](manipulando-listas.js)** você pode ver exemplos de manipulaç
 
 ## Map
 
-Implementação ~~raiz~~ da função `map()`, uso de arrow function e outros exemplos da aula **[aqui](map.js)**.
+Implementação ~~raiz~~ do método `map()`, uso de arrow function e outros exemplos da aula **[aqui](map.js)**.
+
+Mais sobre o `map()` clicando **[aqui](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map)** *(MDN Web Docs)*.
 
 ## Filter
 
-O `filter()` é uma função que serve para filtrar a partir de uma condição. Implementação ~~raiz~~ da função `filter()` e outros exemplos da aula **[aqui](filter.js)**. 
+O `filter()` é um método que serve para filtrar a partir de uma condição. Implementação ~~raiz~~ de `filter()` e outros exemplos da aula **[aqui](filter.js)**.
+
+Mais sobre o `filter()` clicando **[aqui](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filtro)** *(MDN Web Docs)*.
 
 ## Reduce
+
+O método `reduce()` retorna um único valor a partir de um `array`. Implementação ~~raiz~~ de `reduce()` e outros exemplos da aula **[aqui](reduce.js)**.
+
+Mais sobre a `reduce()` clicando **[aqui](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)** *(MDN Web Docs)*.
