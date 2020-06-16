@@ -146,3 +146,11 @@ Mais sobre o `filter()` clicando **[aqui](https://developer.mozilla.org/pt-BR/do
 O método `reduce()` retorna um único valor a partir de um `array`. Implementação ~~raiz~~ de `reduce()` e outros exemplos da aula **[aqui](reduce.js)**.
 
 Mais sobre a `reduce()` clicando **[aqui](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)** *(MDN Web Docs)*.
+
+## Testes automatizados em Javascript | Mocha + Nock
+
+- Instalação global do **[Mocha](https://www.npmjs.com/package/mocha)**: `npm i -g mocha`
+- Dependência de desenvolvimento: `npm i --save-dev mocha`
+- Instalação do **[Nock](https://www.npmjs.com/package/nock)** package para simular requisições: `npm i nock`
+
+Para visualizar a implementação de exemplo clique **[aqui](./tests/01)** ou, separadamente, nos arquivos **[service.js](./tests/01/service.js)** e **[tests.js](./tests/01/service.js)**.
