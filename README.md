@@ -21,7 +21,8 @@ Dúvidas, críticas ou seguestões, entre em contato via **issues** 💬
 - ✅ **[Módulo 10 - JavaScript 2](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-10-javascript-2)**
 - ✅ **[Módulo 11 - React](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-11-reactjs)**
 - ✅ **[Assignment - Semana 11 - LinkedIn Optimization](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/assignments-linkedin-optimization)**
-- ❌ **[Módulo 12 - Node.js](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-12-nodejs)**
+- ✅ **[Módulo 12 - Node.js 1](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-12-nodejs)**
+- ❌ **[Módulo 13 - Node.js 2](https://github.com/khayan/gamaacademy-hiringcoders/tree/master/modulo-13-nodejs)**
 
 
 # Desafio | Módulo 4

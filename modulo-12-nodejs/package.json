@@ -1,0 +1,15 @@
+{
+  "name": "modulo-12-nodejs",
+  "version": "1.0.0",
+  "description": "- Instalação -> App em produção\r - Sincronia de funções Javascript\r - Manipulação de listas\r - Criando ferramentas de linha de comando\r - Trabalhando com múltiplos bancos de dados\r - Criando serviços profissionais com Hapi.js\r - Documentação automática de serviços com Swagger\r - Autenticação com JSON Web Token\r - Publicação de serviços na Web",
+  "main": "async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
